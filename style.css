@@ -10,7 +10,7 @@ Demo from PROG 102 Code
 
 /* HTML styles */
  body {
- background: #ffffff;
+ background: #001A00;
  }
 
 .content {  
@@ -23,12 +23,12 @@ Demo from PROG 102 Code
     #dropzone {
       width: 320px;
       height: 240px;
-      border: 3px solid #000;
+      border: 3px solid #EFBF04;
       display: flex;
       align-items: center;
       justify-content: center;
       background: #CCC;
-      color: #999;
+      color: #ED08E9;
       font-size: large;
       font-weight: bold;
       margin-bottom: 10px;
@@ -36,6 +36,6 @@ Demo from PROG 102 Code
     }
 
     #dropzone.hover {
-      border-color: #2b8efc;
-      color: #2b8efc;
+      border-color: #780606;
+      color: #ED08E9;
     }
