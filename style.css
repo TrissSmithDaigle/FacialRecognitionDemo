@@ -19,6 +19,11 @@ Demo from PROG 102 Code
   margin: auto;
  }
 
+p {
+ background: #001F1F;
+ color: #ED80E9;
+}
+
  /* Image Application Dropzone */
 
 #dropzone {
